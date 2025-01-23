@@ -1,6 +1,6 @@
-# Hi there! I'm Ankur
+# Hey, I'm Ankur!
 
-An independent LLM researcher and ex-Microsoft & AWS with experience in distributed systems and machine learning.
+An independent LLM researcher with experience in distributed systems and machine learning, currently investigating different approaches to shrink the KVCache. Previously worked @ Microsoft and AWS.
 
 ## 🔬 Current Research
 
@@ -20,7 +20,8 @@ An independent LLM researcher and ex-Microsoft & AWS with experience in distribu
 
 ## 💻 Technical Skills
 
-- **Languages**: Python, JAX, PyTorch, TensorFlow, C++, TypeScript
+- **Languages**: Python, C++, TypeScript
+- **Frameworks**: JAX, Pallas, PyTorch, TensorFlow
 - **Cloud & Infrastructure**: Google TPUs, AWS Lambda, CloudFormation
 - **Areas of Expertise**: Transformers, Machine Learning Infrastructure, Distributed Systems
 
